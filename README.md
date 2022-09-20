@@ -1,5 +1,5 @@
 
-<img width="600" alt="Nurse Survey Dashboard" src="https://user-images.githubusercontent.com/103294367/173985423-c7f4b0e0-6bbc-4971-be40-9460b8b86813.png">
+<img width="600" alt="Veterans Day Parade" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Veterans_Day_parade_%2815785731421%29.jpg/640px-Veterans_Day_parade_%2815785731421%29.jpg">
 
 
 ## SITUATION
