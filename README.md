@@ -18,9 +18,8 @@ The source data is located in this [repository](https://github.com/VizForVets/Ve
 
 You can use any tools at your disposal. The final product should be published as a dashboard to Tableau Public with the following hashtag in the details:
 
-**&#35;H7_NURSE_CHALLENGE**
+**&#35;VETPOP2020CHALLENGE**
  
-
 
 ## ADMINISTRATION
 
@@ -28,4 +27,4 @@ If you run into any issues or want to discuss the challenge, message us in Slack
 
 ## COMMAND & SIGNAL
 
-Once published, post to Twitter and/or LinkedIn with that same hashtag (#H7_NURSE_CHALLENGE) and @mention any of the Veterans Advocacy TUG Leads.
+Once published, post to Twitter and/or LinkedIn with that same hashtag (#VETPOP2020CHALLENGE) and @mention any of the Veterans Advocacy TUG Leads.
