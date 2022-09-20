@@ -4,14 +4,13 @@
 
 ## SITUATION
 
-For Veteran's Day, the challenge is to tell the veteran story by using demographic data provided by the VetPop2020 dataset. The VetPop2020 dataset was provided by the VA's [National Center for Veterans Analysis and Statistics](https://www.va.gov/vetdata/veteran_population.asp).
+The Veteran Population Model (aka VetPop) is an official population projection for veterans in the United States. It provides demographic data projections for a variety of characteristics such as age, gender, period of service, and race/ethnicity. 
+
+Find out more [here](https://www.va.gov/vetdata/docs/Demographics/New_Vetpop_Model/VetPop2020_A_Brief_Description.pdf).
 
 ## MISSION
 
-Your mission is to review the data and the [dashboard](https://public.tableau.com/app/profile/ethan.lang/viz/HunterSevenFoundation-NurseSurvey/HunterSevenFoundation-NurseSurvey) and attempt to do one of two things (or even both):
-
-* If you can see something in the data that is worth telling that was not told, tell it in a dashboard!
-* If you think there is another way to visually tell the story that Ethan highlighted, reviz it!
+For Veteran's Day, the challenge is to tell the veteran story by using demographic data provided by the VetPop2020 dataset. The VetPop2020 dataset was provided by the VA's [National Center for Veterans Analysis and Statistics](https://www.va.gov/vetdata/veteran_population.asp).
 
 ## EXECUTION
 
