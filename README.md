@@ -23,7 +23,7 @@ You can use any tools at your disposal. The final product should be published as
 
 ## ADMINISTRATION
 
-If you run into any issues or want to discuss the challenge, message us in Slack!
+If you run into any issues or want to discuss the challenge, message us in [Slack](veteranstug.slack.com)!
 
 ## COMMAND & SIGNAL
 
