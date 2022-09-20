@@ -4,11 +4,7 @@
 
 ## SITUATION
 
-Ethan Lang's deep dive into the nurse survey data provided by the Hunter Seven Foundation had a key finding: **"Lack of education on veteran-related illnesses and risks leads to misdiagnosis or improper preventative care in the private healthcare industry."**
-
-Essentially, a large share of veterans seeks all their medical are outside of the walls of the Department of Veterans Affairs. Because of this, nurses in the private sector may not have the knowledge to address all of the unique needs of the veterans community, like traumatic brain injury and exposure to toxins.
-
-This is an important point to make, but there may be others to make given all the data that were provided by Hunter Seven.
+For Veteran's Day, the challenge is to tell the veteran story by using demographic data provided by the VetPop2020 dataset. The VetPop2020 dataset was provided by the VA's [National Center for Veterans Analysis and Statistics](https://www.va.gov/vetdata/veteran_population.asp).
 
 ## MISSION
 
