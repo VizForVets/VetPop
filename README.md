@@ -14,7 +14,7 @@ For Veteran's Day, the challenge is to tell the veteran story by using demograph
 
 ## EXECUTION
 
-The source data is located in this [repository](https://github.com/VizForVets/VetPop/blob/main/VetPop_2020.xlsx).
+The source data is located in this [repository](https://github.com/VizForVets/VetPop/raw/main/VetPop_2020.xlsx).
 
 You can use any tools at your disposal. The final product should be published as a dashboard to Tableau Public with the following hashtag in the details:
 
