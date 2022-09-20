@@ -1,5 +1,5 @@
 
-<img width="600" alt="Veterans Day Parade" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Veterans_Day_parade_%2815785731421%29.jpg/640px-Veterans_Day_parade_%2815785731421%29.jpg">
+<img width="100%" alt="Veterans Day Parade" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Veterans_Day_parade_%2815785731421%29.jpg/640px-Veterans_Day_parade_%2815785731421%29.jpg">
 
 
 ## SITUATION
