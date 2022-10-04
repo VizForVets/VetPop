@@ -29,6 +29,8 @@ If you run into any issues or want to discuss the challenge, message us in Slack
 
 Once published, post to Twitter and/or LinkedIn with that same hashtag (#VETPOP2020CHALLENGE) and @mention any of the Veterans Advocacy TUG Leads.
 
+
+
 ## Connect with the Veterans Advocacy Tableau User Group
 
 |**LinkedIn**|**Slack**|**Calendar**|
