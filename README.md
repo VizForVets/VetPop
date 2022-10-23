@@ -14,11 +14,11 @@ For Veteran's Day, the challenge is to tell the veteran story by using demograph
 
 ## EXECUTION
 
-The source data is located in this [repository](https://github.com/VizForVets/VetPop/raw/main/VetPop_2020.xlsx).
+The source data is located in this [repository](https://github.com/VizForVets/VetPop/raw/main/VetPop_2020.xlsx). Note: Data was updated 10.19.2022 due to some truncation happening from an API previously.
 
 You can use any tools at your disposal. The final product should be published as a dashboard to Tableau Public with the following hashtag in the details:
 
-**&#35;VETPOP2020CHALLENGE**
+**&#35;VIZFORVETS**
  
 
 ## ADMINISTRATION
@@ -27,7 +27,7 @@ If you run into any issues or want to discuss the challenge, message us in Slack
 
 ## COMMAND & SIGNAL
 
-Once published, post to Twitter and/or LinkedIn with that same hashtag (#VETPOP2020CHALLENGE) and @mention any of the Veterans Advocacy TUG Leads.
+Once published, post to Twitter and/or LinkedIn with that same hashtag (#VIZFORVETS) and @mention any of the Veterans Advocacy TUG Leads.
 
 
 
